@@ -36,6 +36,3 @@ The model was evaluated using:
 
 ## Conclusion
 This project demonstrates how Machine Learning can be used to predict house prices using property features. It provides practical experience in data preprocessing, data visualization, model training and evaluation.
-
-## Author
-Data Science Project | Python & Machine Learning
